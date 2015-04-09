@@ -1,0 +1,26 @@
+{
+  "name": "web-stalker-server",
+  "version": "1.0.0",
+  "description": "Web stalking server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzarcon/web-stalker-server.git"
+  },
+  "keywords": [
+    "scrapping"
+  ],
+  "author": "zzarcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzarcon/web-stalker-server/issues"
+  },
+  "homepage": "https://github.com/zzarcon/web-stalker-server",
+  "devDependencies": {
+    "jsdom": "^4.2.0",
+    "restify": "^3.0.1"
+  }
+}
